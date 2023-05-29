@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "name" : "Admin",
+            "pass" : "admin",
+            "owner" : "true",
+            "office_id": 101,
+            "loads" : []
+        }
+    ]
+}
