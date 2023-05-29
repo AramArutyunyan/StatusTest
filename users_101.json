@@ -3,7 +3,7 @@
         {
             "name" : "Admin",
             "pass" : "admin",
-            "owner" : "true",
+            "owner" : "false",
             "office_id": 101,
             "loads" : []
         }
