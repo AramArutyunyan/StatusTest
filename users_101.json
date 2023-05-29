@@ -3,6 +3,13 @@
         {
             "name" : "Admin",
             "pass" : "admin",
+            "owner" : true,
+            "office_id": 101,
+            "loads" : []
+        },
+        {
+            "name" : "Kar",
+            "pass" : "123",
             "owner" : false,
             "office_id": 101,
             "loads" : []
