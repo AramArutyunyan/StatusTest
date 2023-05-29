@@ -1,0 +1,7 @@
+{
+    "name" : "admin",
+    "pass" : "admin",
+    "oddice" : "101",
+    "owner" : true,
+    "loads" : []
+}
