@@ -1,0 +1,7 @@
+{
+    "name" : "Nick",
+    "pass" : "123",
+    "owner" : true,
+    "office_id": 105,
+    "loads" : []
+}
