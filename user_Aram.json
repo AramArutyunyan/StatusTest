@@ -4,5 +4,22 @@
   "pass": "123",
   "office_id": "101",
   "owner": true,
-  "loads": []
+  "loads": [
+    {
+      "load#": [486522, 101555231],
+      "p_d" : ["Los Ageles, CA", "Dallas, TX"],
+      "date" : ["6/4/2023", "6/5/2023"],
+      "rate" : [1000, 800],
+      "margin" : 200,
+      "equipment" : "SD"
+    },
+    {
+      "load#": [486522, 101555231],
+      "p_d" : ["Los Ageles, CA", "Huston, TX"],
+      "date" : ["6/4/2023", "6/5/2023"],
+      "rate" : [1000, 800],
+      "margin" : 200,
+      "equipment" : "SD"
+    }
+  ]
 }
