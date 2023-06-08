@@ -46,6 +46,174 @@
       ],
       "margin": 200,
       "equipment": "SD"
+    },
+    {
+      "status": "status",
+      "load#": [
+        486522,
+        101555231
+      ],
+      "p_d": [
+        "Las Vegas, NV",
+        "Buffalo, NY"
+      ],
+      "date": [
+        "6/4/2023",
+        "6/5/2023"
+      ],
+      "rate": [
+        1000,
+        800
+      ],
+      "margin": 200,
+      "equipment": "SD"
+    },
+    {
+      "status": "status",
+      "load#": [
+        486522,
+        101555231
+      ],
+      "p_d": [
+        "Las Vegas, NV",
+        "Buffalo, NY"
+      ],
+      "date": [
+        "6/4/2023",
+        "6/5/2023"
+      ],
+      "rate": [
+        1000,
+        800
+      ],
+      "margin": 200,
+      "equipment": "SD"
+    },
+    {
+      "status": "status",
+      "load#": [
+        486522,
+        101555231
+      ],
+      "p_d": [
+        "Las Vegas, NV",
+        "Buffalo, NY"
+      ],
+      "date": [
+        "6/4/2023",
+        "6/5/2023"
+      ],
+      "rate": [
+        1000,
+        800
+      ],
+      "margin": 200,
+      "equipment": "SD"
+    },
+    {
+      "status": "status",
+      "load#": [
+        486522,
+        101555231
+      ],
+      "p_d": [
+        "Las Vegas, NV",
+        "Buffalo, NY"
+      ],
+      "date": [
+        "6/4/2023",
+        "6/5/2023"
+      ],
+      "rate": [
+        1000,
+        800
+      ],
+      "margin": 200,
+      "equipment": "SD"
+    },
+    {
+      "status": "status",
+      "load#": [
+        486522,
+        101555231
+      ],
+      "p_d": [
+        "Las Vegas, NV",
+        "Buffalo, NY"
+      ],
+      "date": [
+        "6/4/2023",
+        "6/5/2023"
+      ],
+      "rate": [
+        1000,
+        800
+      ],
+      "margin": 200,
+      "equipment": "SD"
+    },
+    {
+      "status": "status",
+      "load#": [
+        486522,
+        101555231
+      ],
+      "p_d": [
+        "Las Vegas, NV",
+        "Buffalo, NY"
+      ],
+      "date": [
+        "6/4/2023",
+        "6/5/2023"
+      ],
+      "rate": [
+        1000,
+        800
+      ],
+      "margin": 200,
+      "equipment": "SD"
+    },
+    {
+      "status": "status",
+      "load#": [
+        486522,
+        101555231
+      ],
+      "p_d": [
+        "Las Vegas, NV",
+        "Buffalo, NY"
+      ],
+      "date": [
+        "6/4/2023",
+        "6/5/2023"
+      ],
+      "rate": [
+        1000,
+        800
+      ],
+      "margin": 200,
+      "equipment": "SD"
+    },
+    {
+      "status": "status",
+      "load#": [
+        486522,
+        101555231
+      ],
+      "p_d": [
+        "Las Vegas, NV",
+        "Buffalo, NY"
+      ],
+      "date": [
+        "6/4/2023",
+        "6/5/2023"
+      ],
+      "rate": [
+        1000,
+        800
+      ],
+      "margin": 200,
+      "equipment": "SD"
     }
   ]
 }
