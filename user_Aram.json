@@ -7,7 +7,7 @@
   "save": true,
   "loads": [
     {
-      "status": "no paid",
+      "status": "paid",
       "load#": [
         486522,
         101555231
@@ -28,7 +28,7 @@
       "equipment": "SD"
     },
     {
-      "status": "status",
+      "status": "on the way",
       "load#": [
         486522,
         101555231
