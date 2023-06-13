@@ -3,6 +3,6 @@
   "name": "Casper",
   "pass": "123",
   "office_id": "000",
-  "owner": false,
+  "owner": true,
   "loads": []
 }
