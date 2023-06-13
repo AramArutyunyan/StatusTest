@@ -5,8 +5,8 @@
   "office_id": "000",
   "owner": true,
   "loads": [
-     {
-      "status": "paid",
+    {
+      "status": "no paid",
       "load#": [
         486522,
         101555231
@@ -47,5 +47,6 @@
       "margin": 200,
       "equipment": "SD"
     }
-  ]
+  ],
+  "save": true
 }
