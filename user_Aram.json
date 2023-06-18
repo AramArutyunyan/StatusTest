@@ -150,6 +150,35 @@
         "",
         ""
       ]
+    },
+    {
+      "status": "status",
+      "load#": [
+        "1",
+        1016802
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ]
     }
   ]
 }
