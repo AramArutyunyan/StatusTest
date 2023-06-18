@@ -5,5 +5,35 @@
   "office_id": "101",
   "owner": false,
   "save": true,
-  "loads": []
+  "loads": [
+    {
+      "status": "status",
+      "load#": [
+        "",
+        1015927
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ]
+    }
+  ]
 }
