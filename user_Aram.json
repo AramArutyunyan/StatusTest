@@ -192,6 +192,35 @@
         "asdasd",
         "asdasdasd"
       ]
+    },
+    {
+      "status": "status",
+      "load#": [
+        "5446",
+        1013874
+      ],
+      "p_d": [
+        "Los Angeles, CA",
+        "Dallas, TX"
+      ],
+      "date": [
+        "12/31/2318 - 04:59 - 04:48",
+        "09/06/1999 - 05:55 - 05:55"
+      ],
+      "rate": [
+        "9000",
+        "8000"
+      ],
+      "w_s": [
+        "LA shipper",
+        "4654"
+      ],
+      "equipment": "VAn",
+      "margin": 1000,
+      "notes": [
+        "sadadad",
+        "adadasd"
+      ]
     }
   ]
 }
