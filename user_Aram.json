@@ -47,6 +47,122 @@
       ],
       "margin": 200,
       "equipment": "SD"
+    },
+    {
+      "status": "status",
+      "load#": [
+        "",
+        1018834
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ]
+    },
+    {
+      "status": "status",
+      "load#": [
+        "123",
+        1015408
+      ],
+      "p_d": [
+        "Cass",
+        "ADDD"
+      ],
+      "date": [
+        "06/19/2023 - 22:00 - 23:00",
+        "06/20/2023 - 08:00 - 09:00"
+      ],
+      "rate": [
+        "5000",
+        "4200"
+      ],
+      "w_s": [
+        "asdasd",
+        "adaddd"
+      ],
+      "equipment": "SD",
+      "margin": 800,
+      "notes": [
+        "NAdasd",
+        "aaad"
+      ]
+    },
+    {
+      "status": "status",
+      "load#": [
+        "123",
+        10110133
+      ],
+      "p_d": [
+        "Los Angeles, CA",
+        "Dallas, TX"
+      ],
+      "date": [
+        "06/19/2023 - 08:00 - 17:00",
+        "06/21/2023 - 06:00 - 15:00"
+      ],
+      "rate": [
+        "3000",
+        "2200"
+      ],
+      "w_s": [
+        "LA shipper",
+        "Dallas Reciver"
+      ],
+      "equipment": "SD",
+      "margin": 800,
+      "notes": [
+        "PU# 100158OO",
+        "Delivery# MM001"
+      ]
+    },
+    {
+      "status": "status",
+      "load#": [
+        "553",
+        1019643
+      ],
+      "p_d": [
+        "ADad",
+        "asdada"
+      ],
+      "date": [
+        "09/06/1999 - 04:06 - 04:56",
+        "03/31/2023 - 15:06 - 04:08"
+      ],
+      "rate": [
+        "5000",
+        "2000"
+      ],
+      "w_s": [
+        "asdasd",
+        "sadadasd"
+      ],
+      "equipment": "SD",
+      "margin": 3000,
+      "notes": [
+        "asdasd",
+        "asdasdasd"
+      ]
     }
   ]
 }
