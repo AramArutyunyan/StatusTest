@@ -91,6 +91,35 @@
         "",
         ""
       ]
+    },
+    {
+      "status": "status",
+      "load#": [
+        "",
+        1017274
+      ],
+      "p_d": [
+        "NYC, NY",
+        "Dallas, TX"
+      ],
+      "date": [
+        "03/12/2023 - 08:00 - 17:00",
+        "05/15/5555 - 08:00 - "
+      ],
+      "rate": [
+        "6000",
+        "5500"
+      ],
+      "w_s": [
+        "NYC Shipper",
+        "Dallas Reciver"
+      ],
+      "equipment": "VAN",
+      "margin": 500,
+      "notes": [
+        "",
+        ""
+      ]
     }
   ],
   "save": true
