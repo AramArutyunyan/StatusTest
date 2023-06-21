@@ -6,7 +6,7 @@
   "owner": false,
   "loads": [
     {
-      "status": "status",
+      "status": "paid",
       "load#": [
         "123",
         1011921
@@ -34,5 +34,6 @@
         ""
       ]
     }
-  ]
+  ],
+  "save": true
 }
