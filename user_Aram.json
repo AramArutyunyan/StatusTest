@@ -62,6 +62,35 @@
         "Pick up - 123",
         "Delivery OOO1551"
       ]
+    },
+    {
+      "status": "status",
+      "load#": [
+        "9999",
+        1019316
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ]
     }
   ],
   "save": true
