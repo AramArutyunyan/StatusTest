@@ -4,5 +4,35 @@
   "pass": "123",
   "office_id": "101",
   "owner": false,
-  "loads": []
+  "loads": [
+    {
+      "status": "status",
+      "load#": [
+        "asdad",
+        1011641
+      ],
+      "p_d": [
+        "asdasdasdasd",
+        "asdasdasd"
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ]
+    }
+  ]
 }
