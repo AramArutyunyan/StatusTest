@@ -33,6 +33,35 @@
         "",
         ""
       ]
+    },
+    {
+      "status": "status",
+      "load#": [
+        "5555",
+        1014431
+      ],
+      "p_d": [
+        "Los Angeles, CA",
+        "Dallas, TX"
+      ],
+      "date": [
+        "09/06/1999 - 08:00 - 17:00",
+        "09/09/1999 - 08:00 - "
+      ],
+      "rate": [
+        "5000",
+        "4500"
+      ],
+      "w_s": [
+        "LA shipper",
+        "Dallas reciver"
+      ],
+      "equipment": "SD",
+      "margin": 500,
+      "notes": [
+        "Pick up - 123",
+        "Delivery OOO1551"
+      ]
     }
   ],
   "save": true
