@@ -149,6 +149,35 @@
         "",
         ""
       ]
+    },
+    {
+      "status": "status",
+      "load#": [
+        "adasd",
+        1014238
+      ],
+      "p_d": [
+        "asdasdasd",
+        "asdasdasd"
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "5656",
+        "56565"
+      ],
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": -50909,
+      "notes": [
+        "",
+        ""
+      ]
     }
   ],
   "save": true
