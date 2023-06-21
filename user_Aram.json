@@ -178,6 +178,35 @@
         "",
         ""
       ]
+    },
+    {
+      "status": "status",
+      "load#": [
+        "",
+        1014913
+      ],
+      "p_d": [
+        "LA",
+        "asdasda"
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ]
     }
   ],
   "save": true
