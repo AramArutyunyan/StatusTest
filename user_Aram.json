@@ -120,6 +120,35 @@
         "",
         ""
       ]
+    },
+    {
+      "status": "status",
+      "load#": [
+        "5555",
+        1019525
+      ],
+      "p_d": [
+        "Los Angeles, CA",
+        "Dallas, TX"
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "5000",
+        "4500"
+      ],
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 500,
+      "notes": [
+        "",
+        ""
+      ]
     }
   ],
   "save": true
