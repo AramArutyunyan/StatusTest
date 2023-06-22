@@ -6,7 +6,7 @@
   "owner": false,
   "loads": [
     {
-      "status": "status",
+      "status": "paid",
       "load#": [
         "884000",
         10110062
@@ -145,5 +145,6 @@
       "scam": false,
       "pay": 5000
     }
-  ]
+  ],
+  "save": true
 }
