@@ -39,6 +39,76 @@
       ],
       "scam": false,
       "pay": 100
+    },
+    {
+      "status": "status",
+      "load#": [
+        "884556",
+        1016716
+      ],
+      "p_d": [
+        "Bufalo, NY",
+        "Miami, FL"
+      ],
+      "adress": [
+        "Bufalo street",
+        "miami street"
+      ],
+      "date": [
+        "06/22/2023 - 06:00 - 14:00",
+        "06/24/2023 - 07:00 - 15:00"
+      ],
+      "rate": [
+        "1500",
+        "2000"
+      ],
+      "w_s": [
+        "Bufalo shipper",
+        "Miami reciver"
+      ],
+      "equipment": "SD",
+      "margin": 0,
+      "notes": [
+        "Straps required",
+        "ASAP"
+      ],
+      "scam": true,
+      "pay": 105
+    },
+    {
+      "status": "status",
+      "load#": [
+        "8885",
+        10110836
+      ],
+      "p_d": [
+        "Philadelphiya, PA",
+        "New York, NY"
+      ],
+      "adress": [
+        "PA street",
+        "East point New York"
+      ],
+      "date": [
+        "06/22/2023 - 08:00 - 15:00",
+        "06/24/2023 - 10:00 - 17:00"
+      ],
+      "rate": [
+        "2000",
+        "3000"
+      ],
+      "w_s": [
+        "PA shipper",
+        "NYC reciver"
+      ],
+      "equipment": "Reefer",
+      "margin": 0,
+      "notes": [
+        "-",
+        "-"
+      ],
+      "scam": true,
+      "pay": 140
     }
   ]
 }
