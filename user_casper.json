@@ -76,7 +76,7 @@
       "pay": 105
     },
     {
-      "status": "on the way",
+      "status": "no paid",
       "load#": [
         "8885",
         10110836
@@ -102,7 +102,7 @@
         "NYC reciver"
       ],
       "equipment": "Reefer",
-      "margin": 0,
+      "margin": -3000,
       "notes": [
         "-",
         "-"
