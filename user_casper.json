@@ -6,7 +6,7 @@
   "owner": true,
   "loads": [
     {
-      "status": "paid",
+      "status": "no paid",
       "load#": [
         "884000",
         10110062
@@ -32,7 +32,7 @@
         "Dallas Reciver"
       ],
       "equipment": "VAN",
-      "margin": "2000",
+      "margin": -2000,
       "notes": [
         "Needs vertical E-Track",
         "Delivery ASAP"
