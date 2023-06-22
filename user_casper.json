@@ -32,7 +32,7 @@
         "Dallas Reciver"
       ],
       "equipment": "VAN",
-      "margin": -2000,
+      "margin": "2000",
       "notes": [
         "Needs vertical E-Track",
         "Delivery ASAP"
