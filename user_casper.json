@@ -6,7 +6,7 @@
   "owner": true,
   "loads": [
     {
-      "status": "no paid",
+      "status": "paid",
       "load#": [
         "884000",
         10110062
