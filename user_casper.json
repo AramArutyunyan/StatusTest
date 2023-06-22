@@ -109,6 +109,41 @@
       ],
       "scam": true,
       "pay": 140
+    },
+    {
+      "status": "status",
+      "load#": [
+        "99000",
+        1012235
+      ],
+      "p_d": [
+        "Dallas, TX",
+        "Miami, FL"
+      ],
+      "adress": [
+        "Dallas street",
+        "Miami street"
+      ],
+      "date": [
+        "06/25/2023 - 12:00 - 20:00",
+        "06/28/2023 - 06:00 - 10:00"
+      ],
+      "rate": [
+        "30000",
+        "5000"
+      ],
+      "w_s": [
+        "Dallas shipper",
+        "5553000"
+      ],
+      "equipment": "RGN",
+      "margin": 25000,
+      "notes": [
+        "5ft Tarp required",
+        "Delivery Asap"
+      ],
+      "scam": false,
+      "pay": 5000
     }
   ]
 }
