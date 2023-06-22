@@ -111,7 +111,7 @@
       "pay": 140
     },
     {
-      "status": "no paid",
+      "status": "paid",
       "load#": [
         "99000",
         1012235
@@ -137,7 +137,7 @@
         "5553000"
       ],
       "equipment": "RGN",
-      "margin": -5000,
+      "margin": 25000,
       "notes": [
         "5ft Tarp required",
         "Delivery Asap"
