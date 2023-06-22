@@ -111,7 +111,7 @@
       "pay": 140
     },
     {
-      "status": "paid",
+      "status": "delivered",
       "load#": [
         "99000",
         1012235
