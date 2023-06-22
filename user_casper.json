@@ -41,7 +41,7 @@
       "pay": 100
     },
     {
-      "status": "no paid",
+      "status": "paid",
       "load#": [
         "884556",
         1016716
@@ -67,7 +67,7 @@
         "Miami reciver"
       ],
       "equipment": "SD",
-      "margin": "2000",
+      "margin": 0,
       "notes": [
         "Straps required",
         "ASAP"
