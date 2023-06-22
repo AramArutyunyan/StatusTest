@@ -4,5 +4,41 @@
   "pass": "123",
   "office_id": "000",
   "owner": false,
-  "loads": []
+  "loads": [
+    {
+      "status": "status",
+      "load#": [
+        "884000",
+        10110062
+      ],
+      "p_d": [
+        "Los Angeles, CA",
+        "Dallas, TX "
+      ],
+      "adress": [
+        "West haliwood 22",
+        "West coast Dallas"
+      ],
+      "date": [
+        "06/22/2023 - 08:00 - 17:00",
+        "06/24/2023 - 06:00 - 10:00"
+      ],
+      "rate": [
+        "2500",
+        "2000"
+      ],
+      "w_s": [
+        "California shipper of LA",
+        "Dallas Reciver"
+      ],
+      "equipment": "VAN",
+      "margin": 500,
+      "notes": [
+        "Needs vertical E-Track",
+        "Delivery ASAP"
+      ],
+      "scam": false,
+      "pay": 100
+    }
+  ]
 }
