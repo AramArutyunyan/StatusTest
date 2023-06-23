@@ -5,58 +5,17 @@
   "office_id": "000",
   "owner": false,
   "admin": false,
-  "pay": 40,
+  "pay": 120,
   "sacm_pay": 0,
-  "broker_pay": 40,
+  "broker_pay": 120,
   "loads": [
     {
-      "status": "delivered",
+      "status": "status",
       "type": "ELEMENTS",
       "broker_name": "",
       "load#": [
         "",
-        1019263
-      ],
-      "p_d": [
-        "",
-        ""
-      ],
-      "adress": [
-        "",
-        ""
-      ],
-      "date": [
-        "undefined/undefined/ -  - ",
-        "undefined/undefined/ -  - "
-      ],
-      "rate": [
-        "",
-        ""
-      ],
-      "weight": "",
-      "w_s": [
-        "",
-        ""
-      ],
-      "equipment": "",
-      "margin": 0,
-      "notes": [
-        "",
-        ""
-      ],
-      "scam": false,
-      "pay": 0,
-      "remove_day": "24.07.2023"
-    },
-    {
-      "status": "delivered",
-      "type": {
-        "0": {}
-      },
-      "broker_name": "",
-      "load#": [
-        "",
-        1019870
+        1015538
       ],
       "p_d": [
         "",
@@ -91,13 +50,11 @@
     },
     {
       "status": "status",
-      "type": {
-        "0": {}
-      },
+      "type": "ELEMENTS",
       "broker_name": "",
       "load#": [
         "",
-        1013518
+        1011271
       ],
       "p_d": [
         "",
@@ -112,8 +69,8 @@
         "undefined/undefined/ -  - "
       ],
       "rate": [
-        "",
-        ""
+        "2000",
+        "1800"
       ],
       "weight": "",
       "w_s": [
@@ -121,53 +78,53 @@
         ""
       ],
       "equipment": "",
-      "margin": 0,
+      "margin": 200,
       "notes": [
         "",
         ""
       ],
       "scam": false,
-      "pay": 0,
+      "pay": 40,
       "remove_day": "24.07.2023"
     },
     {
-      "status": "paid",
-      "type": "elements.html",
-      "broker_name": "ZQM CARGO INC",
+      "status": "status",
+      "type": "ELEMENTS",
+      "broker_name": "",
       "load#": [
-        "8884441",
-        1014468
+        "",
+        1016342
       ],
       "p_d": [
-        "Los Angeles, CA 55641",
-        "San Diego, CA 55448"
+        "",
+        ""
       ],
       "adress": [
-        "West California street 553",
-        "San Diego street 54511"
+        "",
+        ""
       ],
       "date": [
-        "06/23/2023 - 10:00 - 17:00",
-        "06/24/2023 - 06:00 - 18:00"
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
       ],
       "rate": [
         "1200",
         "1000"
       ],
-      "weight": "42000",
+      "weight": "",
       "w_s": [
-        "Los Angeles Shipper",
-        "San diego reciver"
+        "",
+        ""
       ],
-      "equipment": "Van",
+      "equipment": "",
       "margin": 200,
       "notes": [
-        "PU#122125",
-        " "
+        "",
+        ""
       ],
       "scam": false,
       "pay": 40,
-      "remove_day": "23.07.2023"
+      "remove_day": "24.07.2023"
     }
   ],
   "save": true,
