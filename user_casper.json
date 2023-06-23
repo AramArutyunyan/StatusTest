@@ -43,6 +43,41 @@
       ],
       "scam": false,
       "pay": 100
+    },
+    {
+      "status": "status",
+      "load#": [
+        "5584441",
+        1013479
+      ],
+      "p_d": [
+        "Miami, FL 45120",
+        "Dallas, TX 45132"
+      ],
+      "adress": [
+        "MIAMI street",
+        "Dallas street"
+      ],
+      "date": [
+        "06/23/2023 - 10:00 - 17:00",
+        "06/25/2023 - 08:00 - 10:00"
+      ],
+      "rate": [
+        "1000",
+        "2500"
+      ],
+      "w_s": [
+        "MIAMI shipper",
+        "Dallas, TX"
+      ],
+      "equipment": "SD",
+      "margin": 0,
+      "notes": [
+        "adadhjhgajfba",
+        "dasdadjhalda"
+      ],
+      "scam": true,
+      "pay": 70
     }
   ],
   "save": true
