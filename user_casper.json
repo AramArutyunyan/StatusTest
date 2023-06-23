@@ -5,8 +5,7 @@
   "office_id": "000",
   "owner": true,
   "admin" : false,
-  "scam_pay" : 0,
-  "broker_pay" : 0,
+  "pay" : 0,
   "loads": [
     {
       "status": "no paid",
