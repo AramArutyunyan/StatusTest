@@ -10,6 +10,42 @@
   "broker_pay": 100,
   "loads": [
     {
+      "status": "status",
+      "load#": [
+        "8841120",
+        1012262
+      ],
+      "p_d": [
+        "San Diego, CA",
+        "Los Angeles, CA"
+      ],
+      "adress": [
+        "San Diego street",
+        "West Haliwood street 55561"
+      ],
+      "date": [
+        "06/23/2023 - 10:00 - 17:00",
+        "06/24/2023 - 06:00 - 13:00"
+      ],
+      "rate": [
+        "1500",
+        "1200"
+      ],
+      "w_s": [
+        "San Diego shipper",
+        "LA shipper"
+      ],
+      "equipment": "Van",
+      "margin": 300,
+      "notes": [
+        "PU#121555",
+        " "
+      ],
+      "scam": false,
+      "pay": 60,
+      "remove_day": "23.07.2023"
+    },
+    {
       "status": "paid",
       "load#": [
         "555122",
