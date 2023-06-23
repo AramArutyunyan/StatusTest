@@ -10,7 +10,7 @@
   "broker_pay": 40,
   "loads": [
     {
-      "status": "delivered",
+      "status": "on the way",
       "type": "elements.html",
       "broker_name": "ZQM CARGO INC",
       "load#": [
