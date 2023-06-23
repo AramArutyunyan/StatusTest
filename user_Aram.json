@@ -17,6 +17,662 @@
       "broker_name": "",
       "load#": [
         "",
+        1018618
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "24.07.2023"
+    },
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
+        1016905
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "24.07.2023"
+    },
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
+        1017502
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "24.07.2023"
+    },
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
+        1012546
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "24.07.2023"
+    },
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
+        1012033
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "24.07.2023"
+    },
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
+        1018446
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "24.07.2023"
+    },
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
+        1015172
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "23.07.2023"
+    },
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
+        10110337
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "weight": "d",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "23.07.2023"
+    },
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
+        10110221
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "23.07.2023"
+    },
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
+        1015211
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "23.07.2023"
+    },
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
+        1017035
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "23.07.2023"
+    },
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
+        1012047
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "23.07.2023"
+    },
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
+        1019165
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "23.07.2023"
+    },
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
+        1011086
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "23.07.2023"
+    },
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
+        1014256
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "23.07.2023"
+    },
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
+        1018196
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "23.07.2023"
+    },
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
         1017888
       ],
       "p_d": [
