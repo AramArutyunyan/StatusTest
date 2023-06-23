@@ -10,7 +10,7 @@
   "broker_pay": 40,
   "loads": [
     {
-      "status": "paid",
+      "status": "no paid",
       "type": "elements.html",
       "broker_name": "ZQM CARGO INC",
       "load#": [
@@ -39,7 +39,7 @@
         "San diego reciver"
       ],
       "equipment": "Van",
-      "margin": 200,
+      "margin": -1000,
       "notes": [
         "PU#122125",
         " "
