@@ -8,6 +8,42 @@
   "pay": 0,
   "scam_pay": 385,
   "broker_pay": 6900,
-  "loads": [],
+  "loads": [
+    {
+      "status": "status",
+      "load#": [
+        "555122",
+        1016157
+      ],
+      "p_d": [
+        "Dallas, TX 558412",
+        "New York, NY 55413"
+      ],
+      "adress": [
+        "Dallas Street",
+        "NYC Street 55641"
+      ],
+      "date": [
+        "06/23/2023 - 08:00 - 15:00",
+        "06/25/2023 - 06:00 - 10:00"
+      ],
+      "rate": [
+        "2500",
+        "2000"
+      ],
+      "w_s": [
+        "Dallas Shipper",
+        "NYC reciver"
+      ],
+      "equipment": "VAN",
+      "margin": 500,
+      "notes": [
+        "PU#4581156\nStraps required",
+        "Delivery ASAP"
+      ],
+      "scam": false,
+      "pay": 100
+    }
+  ],
   "save": true
 }
