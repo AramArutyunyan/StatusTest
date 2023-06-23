@@ -10,6 +10,47 @@
   "broker_pay": 40,
   "loads": [
     {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
+        1017888
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "2000",
+        "1500"
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 500,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 100,
+      "remove_day": "23.07.2023"
+    },
+    {
       "status": "paid",
       "type": "elements.html",
       "broker_name": "ZQM CARGO INC",
