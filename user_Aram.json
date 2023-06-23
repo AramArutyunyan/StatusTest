@@ -10,7 +10,7 @@
   "broker_pay": 40,
   "loads": [
     {
-      "status": "delivered",
+      "status": "on the way",
       "load#": [
         "8884441",
         1014468
