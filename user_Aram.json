@@ -5,14 +5,14 @@
   "office_id": "000",
   "owner": false,
   "admin": false,
-  "pay": -200,
+  "pay": 40,
   "sacm_pay": 0,
-  "broker_pay": -200,
+  "broker_pay": 40,
   "loads": [
     {
-      "status": "paid",
-      "type" : "elements.html",
-      "broker_name" : "ZQM CARGO INC",
+      "status": "delivered",
+      "type": "elements.html",
+      "broker_name": "ZQM CARGO INC",
       "load#": [
         "8884441",
         1014468
@@ -33,7 +33,7 @@
         "1200",
         "1000"
       ],
-      "weight" : "42000",
+      "weight": "42000",
       "w_s": [
         "Los Angeles Shipper",
         "San diego reciver"
