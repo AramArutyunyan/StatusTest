@@ -148,6 +148,42 @@
       ],
       "scam": false,
       "pay": 0
+    },
+    {
+      "status": "status",
+      "load#": [
+        "",
+        1015431
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "100",
+        "50"
+      ],
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 50,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 10,
+      "remove_day": "23.07.2023, 15:08:18"
     }
   ],
   "save": true
