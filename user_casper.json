@@ -5,12 +5,12 @@
   "office_id": "000",
   "owner": true,
   "admin": false,
-  "pay": 0,
-  "scam_pay": 385,
-  "broker_pay": 6900,
+  "pay": 170,
+  "scam_pay": 70,
+  "broker_pay": 100,
   "loads": [
     {
-      "status": "status",
+      "status": "on the way",
       "load#": [
         "555122",
         1016157
