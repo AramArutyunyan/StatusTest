@@ -32,6 +32,7 @@
         "1200",
         "1000"
       ],
+      "weight" : "42000",
       "w_s": [
         "Los Angeles Shipper",
         "San diego reciver"
