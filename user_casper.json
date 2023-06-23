@@ -80,7 +80,7 @@
       "pay": 70
     },
     {
-      "status": "delivered",
+      "status": "paid",
       "load#": [
         "884855",
         1013567
