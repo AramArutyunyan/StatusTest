@@ -4,10 +4,10 @@
   "pass": "123",
   "office_id": "000",
   "owner": true,
-  "admin" : false,
-  "pay" : 0,
-  "scam_pay" : 0,
-  "broker_pay" : 0,
+  "admin": false,
+  "pay": 0,
+  "scam_pay": 0,
+  "broker_pay": 0,
   "loads": [
     {
       "status": "no paid",
@@ -148,6 +148,41 @@
       ],
       "scam": false,
       "pay": 5000
+    },
+    {
+      "status": "status",
+      "load#": [
+        "8444222",
+        1013642
+      ],
+      "p_d": [
+        "Miami, FL",
+        "Dallas, TX"
+      ],
+      "adress": [
+        "Miami street",
+        "Dallas street"
+      ],
+      "date": [
+        "06/23/2023 - 08:00 - 15:00",
+        "06/25/2023 - 06:00 - 10:00"
+      ],
+      "rate": [
+        "2000",
+        "3000"
+      ],
+      "w_s": [
+        "Miami shipper",
+        "Dallas reciver"
+      ],
+      "equipment": "SD",
+      "margin": 0,
+      "notes": [
+        "PU#6648884",
+        "Del Asap"
+      ],
+      "scam": true,
+      "pay": 140
     }
   ],
   "save": true
