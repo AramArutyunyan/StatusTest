@@ -5,12 +5,12 @@
   "office_id": "000",
   "owner": false,
   "admin": false,
-  "pay": 120,
+  "pay": 80,
   "sacm_pay": 0,
-  "broker_pay": 120,
+  "broker_pay": 80,
   "loads": [
     {
-      "status": "status",
+      "status": "delivered",
       "type": "ELEMENTS",
       "broker_name": "",
       "load#": [
