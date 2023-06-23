@@ -8,6 +8,43 @@
   "pay": 0,
   "sacm_pay": 0,
   "broker_pay": 0,
-  "loads": [],
+  "loads": [
+    {
+      "status": "status",
+      "load#": [
+        "8884441",
+        1014468
+      ],
+      "p_d": [
+        "Los Angeles, CA 55641",
+        "San Diego, CA 55448"
+      ],
+      "adress": [
+        "West California street 553",
+        "San Diego street 54511"
+      ],
+      "date": [
+        "06/23/2023 - 10:00 - 17:00",
+        "06/24/2023 - 06:00 - 18:00"
+      ],
+      "rate": [
+        "1200",
+        "1000"
+      ],
+      "w_s": [
+        "Los Angeles Shipper",
+        "San diego reciver"
+      ],
+      "equipment": "Van",
+      "margin": 200,
+      "notes": [
+        "PU#122125",
+        " "
+      ],
+      "scam": false,
+      "pay": 40,
+      "remove_day": "23.07.2023"
+    }
+  ],
   "save": true
 }
