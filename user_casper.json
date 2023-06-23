@@ -6,8 +6,8 @@
   "owner": true,
   "admin": false,
   "pay": 0,
-  "scam_pay": 0,
-  "broker_pay": 0,
+  "scam_pay": 385,
+  "broker_pay": 6900,
   "loads": [
     {
       "status": "no paid",
@@ -80,7 +80,7 @@
       "pay": 105
     },
     {
-      "status": "delivered",
+      "status": "paid",
       "load#": [
         "8885",
         10110836
