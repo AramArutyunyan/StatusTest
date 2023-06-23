@@ -5,12 +5,12 @@
   "office_id": "000",
   "owner": false,
   "admin": false,
-  "pay": -200,
+  "pay": 40,
   "sacm_pay": 0,
-  "broker_pay": -200,
+  "broker_pay": 40,
   "loads": [
     {
-      "status": "paid",
+      "status": "no paid",
       "load#": [
         "8884441",
         1014468
@@ -36,7 +36,7 @@
         "San diego reciver"
       ],
       "equipment": "Van",
-      "margin": 200,
+      "margin": -1000,
       "notes": [
         "PU#122125",
         " "
