@@ -113,6 +113,41 @@
       ],
       "scam": false,
       "pay": 0
+    },
+    {
+      "status": "status",
+      "load#": [
+        "asdasd",
+        1013554
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0
     }
   ],
   "save": true
