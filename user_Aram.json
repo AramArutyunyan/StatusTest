@@ -10,7 +10,7 @@
   "broker_pay": 40,
   "loads": [
     {
-      "status": "on the way",
+      "status": "no paid",
       "load#": [
         "8884441",
         1014468
@@ -36,7 +36,7 @@
         "San diego reciver"
       ],
       "equipment": "Van",
-      "margin": 200,
+      "margin": -1000,
       "notes": [
         "PU#122125",
         " "
