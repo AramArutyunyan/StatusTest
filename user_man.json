@@ -8,6 +8,46 @@
   "pay": 0,
   "sacm_pay": 0,
   "broker_pay": 0,
-  "loads": [],
+  "loads": [
+    {
+      "status": "status",
+      "type": "ELEMENTS",
+      "broker_name": "Broker Companey name\nbroker.email@gmail.com\n0000 Broker Companey\nmailing adress 0000",
+      "load#": [
+        "Broker Companey name",
+        10110450
+      ],
+      "p_d": [
+        "City of PU, PU",
+        "Delivery, CITY"
+      ],
+      "adress": [
+        "Adress for pickup 0000",
+        "Delivery adress"
+      ],
+      "date": [
+        "06/24/2023 - 10:00 - 14:00",
+        "06/25/2023 - 10:00 - 15:00"
+      ],
+      "rate": [
+        "2000",
+        "1800"
+      ],
+      "weight": "45000",
+      "w_s": [
+        "PU shipper",
+        "Delivery Reciver"
+      ],
+      "equipment": "VAN",
+      "margin": 200,
+      "notes": [
+        "Notes for pickup",
+        "Delivery Notes"
+      ],
+      "scam": false,
+      "pay": 40,
+      "remove_day": "24.07.2023"
+    }
+  ],
   "save": true
 }
