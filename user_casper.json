@@ -49,7 +49,7 @@
       "remove_day": "24.07.2023"
     },
     {
-      "status": "status",
+      "status": "no paid",
       "load#": [
         "8841120",
         1012262
@@ -75,7 +75,7 @@
         "LA shipper"
       ],
       "equipment": "Van",
-      "margin": 300,
+      "margin": -1200,
       "notes": [
         "PU#121555",
         " "
