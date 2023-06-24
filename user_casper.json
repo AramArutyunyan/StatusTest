@@ -5,12 +5,12 @@
   "office_id": "000",
   "owner": true,
   "admin": false,
-  "pay": 170,
-  "scam_pay": 70,
-  "broker_pay": 100,
+  "pay": 370,
+  "scam_pay": 210,
+  "broker_pay": 160,
   "loads": [
     {
-      "status": "status",
+      "status": "delivered",
       "type": "ELEMENTS",
       "broker_name": "Broker companey name\nbroker.email@adress.com\nBroker mailing adress\nhow in Safer",
       "load#": [
