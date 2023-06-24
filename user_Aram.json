@@ -10,46 +10,7 @@
   "broker_pay": 80,
   "loads": [
     {
-      "status": "status",
-      "type": "ELEMENTS",
-      "broker_name": "",
-      "load#": [
-        "",
-        1018578
-      ],
-      "p_d": [
-        "",
-        ""
-      ],
-      "adress": [
-        "",
-        ""
-      ],
-      "date": [
-        "undefined/undefined/ -  - ",
-        "undefined/undefined/ -  - "
-      ],
-      "rate": [
-        "",
-        ""
-      ],
-      "weight": "",
-      "w_s": [
-        "",
-        ""
-      ],
-      "equipment": "",
-      "margin": 0,
-      "notes": [
-        "",
-        ""
-      ],
-      "scam": false,
-      "pay": 0,
-      "remove_day": "24.07.2023"
-    },
-    {
-      "status": "delivered",
+      "status": "paid",
       "type": "ELEMENTS",
       "broker_name": "",
       "load#": [
@@ -88,7 +49,7 @@
       "remove_day": "24.07.2023"
     },
     {
-      "status": "delivered",
+      "status": "paid",
       "type": "ELEMENTS",
       "broker_name": "",
       "load#": [
@@ -127,7 +88,7 @@
       "remove_day": "24.07.2023"
     },
     {
-      "status": "delivered",
+      "status": "paid",
       "type": "ELEMENTS",
       "broker_name": "",
       "load#": [
