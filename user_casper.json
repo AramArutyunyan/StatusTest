@@ -11,6 +11,45 @@
   "loads": [
     {
       "status": "status",
+      "type": "ELEMENTS",
+      "broker_name": "Broker companey name\nbroker.email@adress.com\nBroker mailing adress\nhow in Safer",
+      "load#": [
+        "BrokerLoadNumver",
+        1017397
+      ],
+      "p_d": [
+        "Picjup, City 00000",
+        "Delivery, City"
+      ],
+      "adress": [
+        "Shipper adress 0000",
+        "Delivery adress 0000"
+      ],
+      "date": [
+        "06/25/2023 - 10:00 - 15:00",
+        "06/26/2023 - 10:00 - 15:00"
+      ],
+      "rate": [
+        "2000",
+        "1500"
+      ],
+      "weight": "45000",
+      "w_s": [
+        "Shipper name",
+        "Reciver name"
+      ],
+      "equipment": "EQ",
+      "margin": 0,
+      "notes": [
+        "Notes about pickup",
+        "Notes about the delivery"
+      ],
+      "scam": true,
+      "pay": 140,
+      "remove_day": "24.07.2023"
+    },
+    {
+      "status": "status",
       "load#": [
         "8841120",
         1012262
