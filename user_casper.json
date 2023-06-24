@@ -5,9 +5,9 @@
   "office_id": "000",
   "owner": true,
   "admin": false,
-  "pay": 370,
+  "pay": 70,
   "scam_pay": 210,
-  "broker_pay": 160,
+  "broker_pay": -140,
   "loads": [
     {
       "status": "delivered",
@@ -85,7 +85,7 @@
       "remove_day": "23.07.2023"
     },
     {
-      "status": "paid",
+      "status": "no paid",
       "load#": [
         "555122",
         1016157
@@ -111,7 +111,7 @@
         "NYC reciver"
       ],
       "equipment": "VAN",
-      "margin": 500,
+      "margin": -2000,
       "notes": [
         "PU#4581156\nStraps required",
         "Delivery ASAP"
