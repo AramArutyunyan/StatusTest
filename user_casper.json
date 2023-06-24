@@ -5,9 +5,9 @@
   "office_id": "000",
   "owner": true,
   "admin": false,
-  "pay": 70,
+  "pay": 370,
   "scam_pay": 210,
-  "broker_pay": -140,
+  "broker_pay": 160,
   "loads": [
     {
       "status": "delivered",
