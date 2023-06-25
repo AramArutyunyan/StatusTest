@@ -44,7 +44,7 @@
         "",
         ""
       ],
-      "scam": false,
+      "scam": true,
       "pay": 200,
       "remove_day": "25.07.2023"
     }
