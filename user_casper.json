@@ -5,12 +5,12 @@
   "office_id": "000",
   "owner": false,
   "admin": false,
-  "pay": 0,
+  "pay": 40,
   "sacm_pay": 0,
-  "broker_pay": 0,
+  "broker_pay": 40,
   "loads": [
     {
-      "status": "status",
+      "status": "on the way",
       "type": "ELEMENTS",
       "broker_name": "Broker companey name\nBroker.email@adress.com\nBroker companey mailing\n0000 adress",
       "load#": [
@@ -49,5 +49,6 @@
       "remove_day": "25.07.2023"
     }
   ],
-  "save": true
+  "save": true,
+  "scam_pay": 0
 }
