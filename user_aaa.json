@@ -1,0 +1,13 @@
+{
+  "login": "aaa",
+  "name": "aaa",
+  "pass": "123",
+  "office_id": "000",
+  "owner": false,
+  "admin": false,
+  "pay": 0,
+  "sacm_pay": 0,
+  "broker_pay": 0,
+  "loads": [],
+  "save": true
+}
