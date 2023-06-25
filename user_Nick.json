@@ -15,6 +15,45 @@
       "broker_name": "",
       "load#": [
         "",
+        1012792
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "undefined/undefined/ -  - ",
+        "undefined/undefined/ -  - "
+      ],
+      "rate": [
+        "2000",
+        "1000"
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 1000,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 200,
+      "remove_day": "25.07.2023"
+    },
+    {
+      "status": "status",
+      "type": "ELEMENTS",
+      "broker_name": "",
+      "load#": [
+        "",
         1016442
       ],
       "p_d": [
