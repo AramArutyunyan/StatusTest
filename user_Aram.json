@@ -5,9 +5,9 @@
   "office_id": "000",
   "owner": false,
   "admin": false,
-  "pay": 80,
+  "pay": 0,
   "sacm_pay": 0,
-  "broker_pay": 80,
+  "broker_pay": 0,
   "loads": [
     {
       "status": "status",
@@ -49,7 +49,7 @@
       "remove_day": "25.07.2023"
     },
     {
-      "status": "status",
+      "status": "paid",
       "type": "ELEMENTS",
       "broker_name": "",
       "load#": [
