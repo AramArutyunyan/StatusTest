@@ -10,7 +10,7 @@
   "broker_pay": 40,
   "loads": [
     {
-      "status": "paid",
+      "status": "on the way",
       "type": "ELEMENTS",
       "broker_name": "Broker companey name\nBroker.email@adress.com\nBroker companey mailing\n0000 adress",
       "load#": [
