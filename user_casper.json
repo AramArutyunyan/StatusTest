@@ -98,6 +98,47 @@
       },
       "broker_name": "",
       "load#": [
+        "",
+        1001
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        " -  - ",
+        " -  - "
+      ],
+      "rate": [
+        "",
+        ""
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": true,
+      "pay": 0,
+      "remove_day": "25.07.2023"
+    },
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
         "1231321",
         1001
       ],
