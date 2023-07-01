@@ -14,7 +14,7 @@
       "type": "ELEMENTS",
       "broker_name": "",
       "load#": [
-        "",
+        "10001",
         1001
       ],
       "p_d": [
