@@ -8,6 +8,48 @@
   "pay": 0,
   "sacm_pay": 0,
   "broker_pay": 0,
-  "loads": [],
+  "loads": [
+    {
+      "status": "status",
+      "type": {
+        "0": {}
+      },
+      "broker_name": "",
+      "load#": [
+        "",
+        1001
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        " -  - ",
+        " -  - "
+      ],
+      "rate": [
+        "1000",
+        "1200"
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": -200,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": true,
+      "pay": 0,
+      "remove_day": "25.07.2023"
+    }
+  ],
   "save": true
 }
