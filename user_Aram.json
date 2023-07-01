@@ -10,7 +10,7 @@
   "broker_pay": 0,
   "loads": [
     {
-      "status": "on the way",
+      "status": "delivered",
       "type": {
         "0": {}
       },
