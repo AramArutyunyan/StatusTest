@@ -10,6 +10,45 @@
   "broker_pay": 0,
   "loads": [
     {
+      "status": "status",
+      "type": "ELEMENTS",
+      "broker_name": "Broker data",
+      "load#": [
+        "557555",
+        "101252"
+      ],
+      "p_d": [
+        "Pu, city",
+        "Delivery city"
+      ],
+      "adress": [
+        "Adress of pickup",
+        "Delivery Adess"
+      ],
+      "date": [
+        "2023-07-02 - 07:00 - 13:00",
+        "2023-07-03 - 08:00 - 14:00"
+      ],
+      "rate": [
+        25000,
+        23000
+      ],
+      "weight": "105000",
+      "w_s": [
+        "shipper",
+        "Reciver"
+      ],
+      "equipment": "RGN",
+      "margin": 2000,
+      "notes": [
+        "Notes pichup",
+        "Notes of delivery"
+      ],
+      "scam": true,
+      "pay": 0,
+      "remove_day": "25.07.2023"
+    },
+    {
       "status": "delivered",
       "type": "ELEMENTS",
       "broker_name": "Broker company name\nBroker@gmail.com\nBroker mailing adress",
