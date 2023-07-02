@@ -10,6 +10,45 @@
   "broker_pay": 0,
   "loads": [
     {
+      "status": "status",
+      "type": "ELEMENTS",
+      "broker_name": "",
+      "load#": [
+        "",
+        "10151144"
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        " -  - ",
+        " -  - "
+      ],
+      "rate": [
+        0,
+        0
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "25.07.2023"
+    },
+    {
       "status": "delivered",
       "type": "ELEMENTS",
       "broker_name": "Broker data",
@@ -121,45 +160,6 @@
       "notes": [
         "pickup notes",
         "Delivery notes"
-      ],
-      "scam": true,
-      "pay": 0,
-      "remove_day": "25.07.2023"
-    },
-    {
-      "status": "paid",
-      "type": "ELEMENTS",
-      "broker_name": "",
-      "load#": [
-        "10001",
-        1001
-      ],
-      "p_d": [
-        "",
-        ""
-      ],
-      "adress": [
-        "",
-        ""
-      ],
-      "date": [
-        " -  - ",
-        " -  - "
-      ],
-      "rate": [
-        1500,
-        2000
-      ],
-      "weight": "",
-      "w_s": [
-        "",
-        ""
-      ],
-      "equipment": "",
-      "margin": -500,
-      "notes": [
-        "",
-        ""
       ],
       "scam": true,
       "pay": 0,
