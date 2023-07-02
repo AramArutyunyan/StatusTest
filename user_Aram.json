@@ -10,6 +10,45 @@
   "broker_pay": 0,
   "loads": [
     {
+      "status": "status",
+      "type": "ELEMENTS",
+      "broker_name": "Broker company name\nBroker@gmail.com\nBroker mailing adress",
+      "load#": [
+        "15550",
+        1001
+      ],
+      "p_d": [
+        "Pickup, City 00000",
+        "Delivery, city 00000"
+      ],
+      "adress": [
+        "0000 Pickup adress",
+        "0000 Delivery adress"
+      ],
+      "date": [
+        "2023-07-02 - 10:00 - 17:00",
+        "2023-07-03 - 10:00 - 17:00"
+      ],
+      "rate": [
+        2000,
+        1800
+      ],
+      "weight": "32000",
+      "w_s": [
+        "Shipper name",
+        "Reciver name"
+      ],
+      "equipment": "EQ",
+      "margin": 200,
+      "notes": [
+        "pickup notes",
+        "Delivery notes"
+      ],
+      "scam": true,
+      "pay": 0,
+      "remove_day": "25.07.2023"
+    },
+    {
       "status": "delivered",
       "type": "ELEMENTS",
       "broker_name": "",
