@@ -10,7 +10,7 @@
   "broker_pay": 0,
   "loads": [
     {
-      "status": "paid",
+      "status": "delivered",
       "type": "ELEMENTS",
       "broker_name": "Broker data",
       "load#": [
