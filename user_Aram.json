@@ -49,7 +49,7 @@
       "remove_day": "25.07.2023"
     },
     {
-      "status": "no paid",
+      "status": "paid",
       "type": "ELEMENTS",
       "broker_name": "Broker data",
       "load#": [
