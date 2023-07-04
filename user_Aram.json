@@ -15,6 +15,45 @@
       "broker_name": "",
       "load#": [
         "",
+        "10173642"
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        " -  - ",
+        " -  - "
+      ],
+      "rate": [
+        0,
+        0
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 0,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "25.07.2023"
+    },
+    {
+      "status": "status",
+      "type": "ELEMENTS",
+      "broker_name": "",
+      "load#": [
+        "",
         "101-60"
       ],
       "p_d": [
@@ -49,7 +88,7 @@
       "remove_day": "25.07.2023"
     },
     {
-      "status": "delivered",
+      "status": "status",
       "type": "ELEMENTS",
       "broker_name": "",
       "load#": [
