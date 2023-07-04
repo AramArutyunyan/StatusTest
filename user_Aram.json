@@ -10,84 +10,6 @@
   "broker_pay": 0,
   "loads": [
     {
-      "status": "status",
-      "type": "ELEMENTS",
-      "broker_name": "asd",
-      "load#": [
-        "asd",
-        "10137231"
-      ],
-      "p_d": [
-        "151",
-        "asdasd"
-      ],
-      "adress": [
-        "asdasd",
-        "asdasd"
-      ],
-      "date": [
-        "0001-01-10 - 15:01 - 15:00",
-        "0151-01-15 - 15:01 - 15:01"
-      ],
-      "rate": [
-        1500,
-        1200
-      ],
-      "weight": "45000",
-      "w_s": [
-        "151",
-        "asdasd"
-      ],
-      "equipment": "asd",
-      "margin": 300,
-      "notes": [
-        "asdasd",
-        "asdasd"
-      ],
-      "scam": false,
-      "pay": 0,
-      "remove_day": "25.07.2023"
-    },
-    {
-      "status": "status",
-      "type": "ELEMENTS",
-      "broker_name": "asdasd",
-      "load#": [
-        "15454",
-        "10129231"
-      ],
-      "p_d": [
-        "asdassdad.asdasda",
-        "asdasda"
-      ],
-      "adress": [
-        "Aasdasd",
-        "asd"
-      ],
-      "date": [
-        "2023-07-06 - 10:00 - 17:00",
-        "2023-03-07 -  - "
-      ],
-      "rate": [
-        2000,
-        1500
-      ],
-      "weight": "45000",
-      "w_s": [
-        "aasdasd",
-        "asdasdasd"
-      ],
-      "equipment": "aa",
-      "margin": 500,
-      "notes": [
-        "asdasdasd",
-        "asdasd"
-      ],
-      "scam": false,
-      "pay": 0,
-      "remove_day": "25.07.2023"
-    },
-    {
       "status": "delivered",
       "type": "ELEMENTS",
       "broker_name": "Broker data",
@@ -166,7 +88,7 @@
       "remove_day": "25.07.2023"
     },
     {
-      "status": "on the way",
+      "status": "paid",
       "type": "ELEMENTS",
       "broker_name": "Broker company name\nBroker@gmail.com\nBroker mailing adress",
       "load#": [
