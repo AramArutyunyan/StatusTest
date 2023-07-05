@@ -10,6 +10,45 @@
   "broker_pay": 40,
   "loads": [
     {
+      "status": "status",
+      "type": "ELEMENTS",
+      "broker_name": "",
+      "load#": [
+        "",
+        "10134011"
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        " -  - ",
+        " -  - "
+      ],
+      "rate": [
+        1500,
+        1000
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": 500,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "25.07.2023"
+    },
+    {
       "status": "delivered",
       "type": "ELEMENTS",
       "broker_name": "Broker companey name\nBroker.email@adress.com\nBroker companey mailing\n0000 adress",
