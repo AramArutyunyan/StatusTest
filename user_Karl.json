@@ -10,7 +10,7 @@
   "broker_pay": 0,
   "loads": [
     {
-      "status": "no paid",
+      "status": "paid",
       "type": "ELEMENTS",
       "broker_name": "asdsd",
       "load#": [
