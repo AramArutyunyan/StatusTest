@@ -283,7 +283,7 @@
       "remove_day": "25.07.2023"
     },
     {
-      "status": "paid",
+      "status": "delivered",
       "type": "ELEMENTS",
       "broker_name": "Broker company name\nBroker@gmail.com\nBroker mailing adress",
       "load#": [
