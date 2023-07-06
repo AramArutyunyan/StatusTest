@@ -10,7 +10,7 @@
   "broker_pay": 0,
   "loads": [
     {
-      "status": "status",
+      "status": "no paid",
       "type": "ELEMENTS",
       "broker_name": "",
       "load#": [
@@ -39,7 +39,7 @@
         ""
       ],
       "equipment": "",
-      "margin": 200,
+      "margin": -1800,
       "notes": [
         "",
         ""
