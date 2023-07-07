@@ -10,7 +10,7 @@
   "broker_pay": 0,
   "loads": [
     {
-      "status": "status",
+      "status": "delivered",
       "type": "QUICK CARS LLC",
       "broker_name": "",
       "load#": [
