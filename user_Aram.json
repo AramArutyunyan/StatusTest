@@ -8,6 +8,46 @@
   "pay": 0,
   "sacm_pay": 0,
   "broker_pay": 0,
-  "loads": [],
+  "loads": [
+    {
+      "status": "status",
+      "type": "QUICK CARS LLC",
+      "broker_name": "",
+      "load#": [
+        "",
+        "10147543"
+      ],
+      "p_d": [
+        "",
+        ""
+      ],
+      "adress": [
+        "",
+        ""
+      ],
+      "date": [
+        "07/07/2023 - 15:34 - 17:00",
+        "07/07/2023 - 18:00 - 19:00"
+      ],
+      "rate": [
+        20000,
+        21000
+      ],
+      "weight": "",
+      "w_s": [
+        "",
+        ""
+      ],
+      "equipment": "",
+      "margin": -1000,
+      "notes": [
+        "",
+        ""
+      ],
+      "scam": false,
+      "pay": 0,
+      "remove_day": "8.0.2023"
+    }
+  ],
   "save": true
 }
